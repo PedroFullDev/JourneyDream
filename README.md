@@ -36,20 +36,18 @@ pgzrun main.py
 
 ---
 
-```👨‍💻 Autor
+## 👨‍💻 Autor
 
-Desenvolvido por Pedro Henrique Santos de Pontes
-📅 Projeto concluído em novembro de 2025
-📫 GitHub: PedroFullDev
-```
+- **Desenvolvido por Pedro Henrique Santos de Pontes**
+- 📅 **Projeto concluído em novembro de 2025**
+- 📫 **GitHub: PedroFullDev**
 
 ---
 
-```📜 Licença
+## 📜 Licença
 
-Este projeto é distribuído sob a licença MIT.
-Você pode estudar, modificar e compartilhar livremente, desde que mantenha os devidos créditos ao autor original.
-```
+- Este projeto é distribuído sob a licença MIT.
+- Você pode estudar, modificar e compartilhar livremente, desde que mantenha os devidos créditos ao autor    original.
 
-```markdown
-✨ Feito com Python, energia ☕ e muita dedicação!
+__markdown__
+- ✨ Feito com Python, energia ☕ e muita dedicação!
