@@ -49,5 +49,6 @@ pgzrun main.py
 - Este projeto é distribuído sob a licença MIT.
 - Você pode estudar, modificar e compartilhar livremente, desde que mantenha os devidos créditos ao autor    original.
 
+---
 
 - ✨ **Feito com Python, energia ☕ e muita dedicação!**
